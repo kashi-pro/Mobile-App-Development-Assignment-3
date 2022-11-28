@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Remeber Location</string>
+    <string name="welcome">Welcome</string>
+    <string name="home">Home</string>
+    <string name="enter_location_name">Enter Location Name</string>
+    <string name="enter_location_description">Enter Location Description</string>
+    <string name="add_location">Add Location</string>
+</resources>
